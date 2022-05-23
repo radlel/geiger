@@ -1,4 +1,4 @@
-#Geiger-Muller counter
+# Geiger-Muller counter
 
 This project describes complete process of designing and constructing of
 Geiger-Muller counter device.
@@ -7,7 +7,7 @@ Counter final form:
 
 ![](resources/readme/counter.PNG)
 
-##Features:
+## Features:
 - Radiation measurement in uSv or Rem
 - 3.5" touch screen
 - Dedicated android application for storing measured data
@@ -18,7 +18,7 @@ Counter final form:
 - LED and buzzer notifications
 - Li-ion cell
 
-##Scientific background
+## Scientific background
 _TODO_
 
 ## Atmega software
