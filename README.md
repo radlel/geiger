@@ -1,6 +1,6 @@
 # Geiger-Muller counter
 
-This project describes complete process of designing and constructing of
+This project describes complete process of designing and constructing
 Geiger-Muller counter device.
 
 Counter final form:
