@@ -115,13 +115,24 @@ and generate output .xls file for later analysis.
 3. Button to connect/disconnect 
 4. List of paired bluetooth devices
 
+Source code is available _[here](Android/Mobile.apk)_.
+
 ## Device cover
-_TODO_
+Main device cover was designed in SolidWorks and then printed using 3D printer.
+Cover was split into two parts - bottom and top. The design included holes for Geiger-Muller tube cable,
+charging cable, buzzer, LED and power button. Also, supports for internal elements were added.
+
+After assembling Counter, bottom and top cover parts are held together by hooks.
+
+![](resources/cover/cover_main.png)
+
+Device cover was smoothed and pained for yellow and dark grey colors.
+
+Geiger-Muller tube SBM-20 was placed in separate cover made from two PVC pipes. For better handling covers were
+connected by spiral cable. Project files and more photos are available _[here](cover)_ and _[here](resources/cover)_.
+
 
 ## Counter characteristics
-_TODO_
-
-## Technologies
 _TODO_
 
 ## License
